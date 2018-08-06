@@ -1,0 +1,16 @@
+ aside, main {
+    margin: 35px; 
+    display: inline-block;
+  }
+  
+  aside {
+    width: 200px;
+    float: left;
+ }
+  
+main {
+    width: 600px;
+    background-color: white;
+    padding: 30px;
+    align-items: stretch;
+  }

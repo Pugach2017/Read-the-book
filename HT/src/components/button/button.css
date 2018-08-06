@@ -1,0 +1,13 @@
+button {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 0px 13px;
+    padding:  5px 5px 5px 5px;
+    outline: none;
+    font-size: 13px;
+        background-color: #5501a3;
+    color: rgb(234, 250, 7);
+    cursor: pointer;
+    font-style: inherit;
+    
+  }
